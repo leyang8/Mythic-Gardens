@@ -1,6 +1,9 @@
 # Mythic-Gardens
 The python pygame team project.
 
+## YouTube Demonstration Link:
+https://youtu.be/PIJC5riLQhI
+
 ## Game Design - Story Line:
 
 In the lost world of the Mythic Gardens lies treasures of riches from the late descents. However, the frenzy for the glory and fame isn’t for the faint-hearted; it's a treacherous journey that demands one to traverse through the perilous terrain. Only those who can overcome the fearful gatekeepers and prove themselves worthy can unlock the enigmatic secrets of the Mythic Gardens. It's a test of wit, courage, and skill, where one must navigate through the labyrinthine puzzles and unravel the cryptic codes that guard the treasures of the past. The gatekeepers are relentless and unforgiving, its terrains are guarded to test- a true dance with danger where missteps could be fatal. Above and beyond its dystopian guise, the rewards are unparalleled, and the legends of triumphs will echo through the ages. The Mythic Gardens beckon, will you answer the call?
@@ -33,12 +36,4 @@ The Mythic Gardens is a true test of skill and endurance, where only the bravest
 10. Obstacles and enemies will become more difficult to defeat as the main character progresses through the levels.
 11. The main character will have access to more advanced weapons as they progress through the levels.
 12. The game is won when the main character reaches the end of the second level.
-
-## Changes Made to Original Design:
-
-- Removed a dedicated screen for character and enemy collisions.
-- Added user customization by allowing character naming.
-- Enhanced class structures for improved functionality.
-- Introduced experience points in level 2, granting access to new weapons.
-- Modified endgame weapons to include rocks, fireballs, and lasers.
-
+    
